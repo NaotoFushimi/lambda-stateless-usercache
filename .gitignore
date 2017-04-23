@@ -1,3 +1,4 @@
 node_modules
 work
 yarn.lock
+.idea
